@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/jolaleye/horizon-theme-vscode/master/preview.png" width="90%">
+  <img alt="preview" src="preview.png" width="90%">
 </p>
 
 ## Installation
